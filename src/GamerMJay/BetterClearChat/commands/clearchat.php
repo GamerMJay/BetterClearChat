@@ -225,7 +225,7 @@ class clearchat extends Command
                 Server::getInstance()->broadcastMessage("§r");
                 Server::getInstance()->broadcastMessage("§r");
                 Server::getInstance()->broadcastMessage("§r");
-Server::getInstance()->broadcastMessage("§r");
+                Server::getInstance()->broadcastMessage("§r");
                 Server::getInstance()->broadcastMessage("§r");
                 Server::getInstance()->broadcastMessage("§r");
                 Server::getInstance()->broadcastMessage("§r");

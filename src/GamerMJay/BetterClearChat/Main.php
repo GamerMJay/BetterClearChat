@@ -1,9 +1,9 @@
 <?php
 
-namespace GamerMJay\BetterClearChat;
+namespace GamerMJay\EasyClearChat;
 
 #pocketmine
-use GamerMJay\BetterClearChat\commands\clearchat;
+use GamerMJay\EasyClearChat\commands\clearchat;
 use pocketmine\command\Command;
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;

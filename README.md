@@ -1,10 +1,10 @@
 [![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/RuF5gxRNfQ)
-# BetterClearChat - V1.0.0  
+# EasyClearChat - V1.0.0  
 
 ### Report Bug
 You've found a Bug?
-- Go to [Issues](https://github.com/GamerMJay/BetterClearChat/issues)
-- Click on [New Issue](https://github.com/GamerMJay/BetterClearChat/issues/new/choose)
+- Go to [Issues](https://github.com/GamerMJay/EasyClearChat/issues)
+- Click on [New Issue](https://github.com/GamerMJay/EasyClearChat/issues/new/choose)
 - Write your bug with all Informations that you have down
 
 ### Commands

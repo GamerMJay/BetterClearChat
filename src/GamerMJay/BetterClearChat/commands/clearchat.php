@@ -1,8 +1,8 @@
 <?php
 
-namespace GamerMJay\BetterClearChat\commands;
+namespace GamerMJay\EasyClearChat\commands;
 
-use GamerMJay\BetterClearChat\Main;
+use GamerMJay\EasyClearChat\Main;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\player\Player;

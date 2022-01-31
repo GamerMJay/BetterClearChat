@@ -1,11 +1,10 @@
-name: BetterClearChat
-main: GamerMJay\BetterClearChat\Main
+name: EasyClearChat
+main: GamerMJay\EasyClearChat\Main
 author: GamerMJay
 api: 4.0.0
 description: Easy ClearChat plugin
 version: 1.0.0
-website: https://github.com/GamerMJay/BetterClearChat
-
+website: https://github.com/GamerMJay/EasyClearChat
 
 permissions:
   clearchat.use:

@@ -10,7 +10,7 @@ use pocketmine\Server;
 use pocketmine\utils\TextFormat;
 
 class clearchat extends Command
-{
+ {
 
     public function __construct(Main $plugin) {
 		$this->plugin = $plugin;

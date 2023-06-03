@@ -11,23 +11,19 @@ use pocketmine\utils\TextFormat;
 
 class clearchat extends Command
  {
+    private $plugin;
 
     public function __construct(Main $plugin) {
-		$this->plugin = $plugin;
+        $this->plugin = $plugin;
 		parent::__construct($this->plugin->getConfig()->get("command"), $this->plugin->getConfig()->get("description"), "/clearchat", [""]);
+        $this->setPermission("clearchat.use");
 	}
-
 
     public function execute(CommandSender $sender, string $commandLabel, array $args)
     {
         if ($sender instanceof Player) {
             $player = $sender;
-            if (!$player->hasPermission("clearchat.use")) {
-                $sender->sendMessage($this->plugin->config->get("no-permission"));
-                return;
-            }
             foreach (Server::getInstance()->getOnlinePlayers() as $p) {
-
                 Server::getInstance()->broadcastMessage("§r");
                 Server::getInstance()->broadcastMessage("§r");
                 Server::getInstance()->broadcastMessage("§r");

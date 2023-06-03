@@ -1,6 +1,9 @@
 
 [![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/RuF5gxRNfQ)
-# EasyClearChat - V1.0.0  
+# EasyClearChat - V1.1.0  
+
+#### New
+Updated to PM5
 
 ### Report Bug
 You've found a Bug?

@@ -1,9 +1,11 @@
-# EasyClearChat V1.1.0 by GamerMJay, licensed under Apache License 2.0!
+# EasyClearChat V1.1.1 by GamerMJay, licensed under Apache License 2.0!
 
+# Command
+command: "clearchat"
+aliases: ["cc","easyclearchat"]
+description: "ClearChat Command"
 
 # Messages
-command: "clearchat"
-description: "ClearChat Command"
 no-permission: "§6§EasyClearChat §r§8» §cyou have no permission!"
 run-ingame: "§6§lEasyClearChat §r§8» §crun this command ingame!"
 clearchat-succes: "§6§lEasyClearChat §r§8» §eThe chat was emptied by §6{player}"

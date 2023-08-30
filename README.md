@@ -1,9 +1,9 @@
 
 [![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/RuF5gxRNfQ)
-# EasyClearChat - V1.1.0  
+# EasyClearChat - V1.1.1
 
 #### New
-Updated to PM5
+Alias added
 
 ### Report Bug
 You've found a Bug?
@@ -22,4 +22,4 @@ This Plugin has the [Apache License 2.0](/LICENSE)! Plugin by GamerMJay!
 ### Credits:
 Owner: [GamerMJay](https://github.com/GamerMJay)
 
-Discord-Tag: `GamerMJay#6158`
+Discord-Tag: `GamerMJay`

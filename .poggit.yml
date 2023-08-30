@@ -1,8 +1,8 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/GamerMJay/BetterClearChat
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/GamerMJay/EasyClearChat
 build-by-default: true
 branches:
 - main
 projects:
-  BetterClearChat:
+  EasyClearChat:
     path: ""
 ...

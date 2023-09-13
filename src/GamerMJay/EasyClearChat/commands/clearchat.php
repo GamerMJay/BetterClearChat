@@ -7,8 +7,10 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\player\Player;
 use pocketmine\Server;
+use pocketmine\plugin\PluginOwned;
+use pocketmine\plugin\Plugin;
 
-class clearchat extends Command
+class clearchat extends Command implements PluginOwned
  {
     private $plugin;
 
@@ -29,5 +31,10 @@ class clearchat extends Command
             return;
         }
         $sender->sendMessage($this->plugin->config->get("run-ingame"));
+    }
+
+    public function getOwningPlugin(): Plugin
+    {
+        return $this->plugin;
     }
 }
